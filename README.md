@@ -1,4 +1,4 @@
 # Tasque
 
 
-![alt text](Tasque/Tasque.png)
+![alt text](./Tasque.png)
